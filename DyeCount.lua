@@ -22,8 +22,6 @@ function DC:TRADE_SKILL_SHOW()
                 if data.parent.data.categoryInfo and data.parent.data.categoryInfo.skillLineID == 2984 then
                     local recipeID = recipeInfo.recipeID
                     if recipeID then
-                        table.insert(DyeCount.test, v)
-                        table.insert(DyeCount.test2, data)
                         if not v.availableCount then
                             v.availableCount = v:CreateFontString(nil, "OVERLAY")
                             v.availableCount:SetFontObject("GameFontHighlight_NoShadow")
