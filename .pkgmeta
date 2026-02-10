@@ -2,6 +2,8 @@ package-as: DyeCount
 enable-nolib-creation: no
 
 ignore:
-  - .github
-  - .vscode
-  - .gitignore
+
+- .github
+- .vscode
+- .gitignore
+- .preview
