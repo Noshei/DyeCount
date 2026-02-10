@@ -2,8 +2,7 @@
 ## Title: Dye Count
 ## Notes: Addon for showing amount of Dye available to you in the Dye Crafting Station
 ## Author: Noshei
-## Version: 0.0.1
-## IconTexture: Interface\Addons\GatheringTracker\Media\GT_Icon
-## X-Curse-Project-ID: 406104
+## Version: 1.0.0
+## IconTexture: 7449430
 
 DyeCount.lua
